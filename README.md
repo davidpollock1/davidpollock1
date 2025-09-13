@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm David
 
-<!--
-**davidpollock1/davidpollock1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **software developer** working professionally on full-stack systems, with a strong focus on **back-end engineering**.  
+Most of my day is spent writing C#/.NET & Python (Django, Wagtail) in my free time. 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tech Stack
+
+**Languages & Frameworks:**  
+- **Backend:** Python (Django, FastAPI), C#/.NET  
+- **Frontend:** JavaScript (Angular, a little React)  
+- **Databases:** PostgreSQL, SQL Server, Azure CosmosDB  
+
+---
+
+## 📚 Current Work
+
+I'm currently building a **digital publishing platform** using Django + Wagtail, running in Docker and deployed with a modern, containerized setup.  
+The goal is a smooth, creator-friendly editorial workflow that makes publishing effortless.
+
+---
+
+## 🎯 What I Care About
+
+- Writing **maintainable code**  
+- Designing **scalable APIs** and reliable systems  
+- Exploring the intersection of **technology & storytelling**
+
+---
+
+Always open to connecting with other developers, learning new tools, and collaborating on interesting projects.
