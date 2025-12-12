@@ -17,7 +17,6 @@ Most of my day is spent writing C#/.NET & Python (Django, Wagtail) in my free ti
 ## 📚 Current Work
 
 I'm currently building a **digital publishing platform** using Django + Wagtail, running in Docker and deployed with a modern, containerized setup.  
-The goal is a smooth, creator-friendly editorial workflow that makes publishing effortless.
 
 ---
 
@@ -25,7 +24,6 @@ The goal is a smooth, creator-friendly editorial workflow that makes publishing 
 
 - Writing **maintainable code**  
 - Designing **scalable APIs** and reliable systems  
-- Exploring the intersection of **technology & storytelling**
 
 ---
 
